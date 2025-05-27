@@ -23,7 +23,7 @@ Here are a few highlights from my GitHub:
 |[서울시 공모전 - DE](https://github.com/BOKJUNSOO/seoul-de) | 서비스 데이터셋 구축 자동화| Python, PostgreSQL, Airflow |
 | [서울시 공모전 - AI 챗봇](https://github.com/username/project2) | 서울시 행사정보 안내 챗봇 | Python, LangChain, FastAPI |
 | [개인화 뉴스 어플리케이션](https://github.com/BOKJUNSOO/goows-data-process-server) | 실시간 데이터 처리 및 인기검색어, 연관검색어 구현| Java, Flink, Kafka |
-| [데이터 분산처리 클러스터](https://github.com/BOKJUNSOO/goows-data-process-server) | 유저정보 집계 및 시각화 플랫폼 구축| Python, Spark, Airflow, ElasticSearch, Kibana |
+| [데이터 분산처리 클러스터](https://github.com/BOKJUNSOO/rankingflow) | 유저정보 집계 및 시각화 플랫폼 구축| Python, Spark, Airflow, ElasticSearch, Kibana |
 
 
 ## 🧰 Tech Stack
