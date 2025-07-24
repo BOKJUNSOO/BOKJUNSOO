@@ -1,5 +1,7 @@
 # 👋 Hi, I'm [BOKJUNSOO]!
 
+![Profile views](https://komarev.com/ghpvc/?username=BOKJUNSOO&color=blue)
+
 Welcome to my GitHub! This repository serves as my main portfolio hub where I showcase my personal projects, experiments, and contributions.
 
 <br>
